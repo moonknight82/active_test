@@ -34,7 +34,7 @@ DEFAULT_ARM_OPTIONS = {
 }
 DEFAULT_ZONE_OPTIONS: dict = {}
 
-DOMAIN = "jfl_active20"
+DOMAIN = "jfl_active"
 
 OPTIONS_ARM = "arm_options"
 OPTIONS_ZONES = "zone_options"
